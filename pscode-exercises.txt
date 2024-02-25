@@ -1,0 +1,86 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+
+  If number is totally divisible by 2
+       number = even
+  Else number is not totally divisable by 2
+       Number = odd
+     
+         
+ 
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a)      Read (num1, num2, num3, num4, and num5
+
+b)      find the total sum of 
+           num1
+           num2
+           num3
+           num 4
+           num5
+           
+              
+        divide  the sum of all 5 numbers by 5
+           total numbers added and divided = avrage of 5 the 5 numbers
+
+
+              loop 1
+c)    find  smalest minimum number
+
+        If num1 < num2
+           num2 = smallest number
+
+        If num2 < num3
+           num2 = smallest number
+ 
+        If num2 > num4
+           num4 = smallest number
+
+        If num4 < num5
+           num4 = smallest mininmum number
+
+               loop 2    
+      find largest maximum number
+
+        If num1 > num2
+           num1 = largest num
+
+        If num1 > num3
+           num1 largest number
+         
+        If num1 > num4
+           num1 = largest number
+
+        If num1 < num5
+           num5 = largest maximum number
+
+d) I averaged the 5 numbers 
+
+then attempted a loop to find the smallest minimum number
+
+I also attempted a loopto find the largest maximim number
+
+         
+        -- END --
+
+Save the file and upload it to the repo “pscode-wk5” you created for this exercise. 
